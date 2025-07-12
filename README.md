@@ -1,1 +1,1 @@
-# campus-reg-form
+# Campus Hub Registration Form
